@@ -1,0 +1,19 @@
+ body {
+    background-color: #ccffff;
+    color: navy;
+}
+
+h2 {
+    color: #0d6dca;
+}
+
+nav div{
+    background-color: #66c7ff;   
+}
+
+/* a.navyColor {
+    color: navy !important;
+} */
+/* nav a {
+    color: blue !important;
+} */

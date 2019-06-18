@@ -1,0 +1,8 @@
+node_modules/.bin/mime
+node_modules/.bin/mkdirp
+node_modules/.bin/handlebars
+node_modules/.bin/uglifyjs
+node_modules/.bin/semver
+node_modules/.bin/uuid
+node_modules/pg/node_modules/.bin/semver
+node_modules/pg/node_modules/.bin/semver
